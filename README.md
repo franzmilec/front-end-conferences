@@ -22,6 +22,10 @@ London, **United Kingdom**
 8-9 March 2021  
 Prague, **Czech Republic**
 
+[**DevOps.js Conference**](https://devopsjsconf.com/)  
+29-30 March 2021  
+**Online**
+
 [**International JavaScript Conference**](https://javascript-conference.com/london/)  
 21-23 April 2021  
 London, **UK**  
